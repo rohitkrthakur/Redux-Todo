@@ -1,0 +1,14 @@
+/* src/components/UserTable.css */
+.user-table {
+    margin-top: 5rem; /* Adjust according to the height of the navbar */
+    padding: 2rem;
+    text-align: center;
+}
+
+.user-table h2 {
+    font-size: 2rem;
+    color: #333;
+}
+.admin-subtitle{
+    color: red;
+}
